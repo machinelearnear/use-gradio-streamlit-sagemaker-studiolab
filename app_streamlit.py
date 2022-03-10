@@ -44,11 +44,12 @@ def load_model(keras_model="keras-io/monocular-depth-estimation"):
     model = from_pretrained_keras(keras_model, custom_objects=custom_objects, compile=False)
     return model
 
+with st.spinner(text='Loading model into Keras..'):
+    model = load_model() # first things, first.. load your model
+
 # streamlit app
 # -----------------------------------------------------------
 def main():
-    with st.spinner(text='Loading model into Keras..'):
-        model = load_model() # first things, first.. load your model
     st.title('Monocular Depth Estimation')
     st.header('Introduction')
     st.markdown('''

@@ -2,7 +2,7 @@
 
 This repository shows a quick demo for how to run `Gradio` or `Streamlit` applications on SageMaker Studio Lab. Following the same capability for [Tensorboard](https://docs.aws.amazon.com/sagemaker/latest/dg/studio-tensorboard.html) on SageMaker Studio, you can now apply the same to work with your Streamlit/Gradio application, except the default port (8051) set by Streamlit is not open.
 
-streamlit-app.webm
+https://user-images.githubusercontent.com/78419164/157738783-93bbbabd-08a0-42e7-ab27-68d43c6559d5.mov
 
 ## Getting started
 - https://streamlit.io/

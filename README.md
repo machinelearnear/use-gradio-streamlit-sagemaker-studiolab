@@ -21,8 +21,8 @@ https://user-images.githubusercontent.com/78419164/157740012-a08d4036-fd31-474e-
 
 ## How to run your apps
 
-- `0_demo_notebook.ipynb` Notebook that runs Monocular Depth Estimation in Keras.
-- `1_launch_gradio_streamlit.ipynb` Notebook with quick start to launch your apps.
+- `0_demo_notebook.ipynb` [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/machinelearnear/use-gradio-streamlit-sagemaker-studiolab/blob/main/0_demo_notebook.ipynb) Notebook that runs Monocular Depth Estimation in Keras.
+- `1_launch_gradio_streamlit.ipynb` [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/machinelearnear/use-gradio-streamlit-sagemaker-studiolab/blob/main/1_launch_gradio_streamlit.ipynb) Notebook with quick start to launch your apps.
 - `app_gradio.py` Gradio application
 - `app_streamlit.py` Streamlit application
 

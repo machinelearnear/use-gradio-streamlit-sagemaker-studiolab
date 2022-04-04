@@ -4,6 +4,9 @@ This repository shows a quick demo for how to run `Gradio` or `Streamlit` applic
 
 https://user-images.githubusercontent.com/78419164/157740012-a08d4036-fd31-474e-a293-93e4c0817e70.mp4
 
+## YouTube Video
+[![Use Gradio or Streamlit on SageMaker Studio Lab](https://img.youtube.com/vi/EMrEsn13g9Y/0.jpg)](https://www.youtube.com/watch?v=EMrEsn13g9Y)
+
 ## Getting started
 - https://streamlit.io/
 - https://gradio.app/
